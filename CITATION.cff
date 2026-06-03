@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the conference paper below."
+title: "Intelligent Fault Diagnosis of Rolling Bearing Based on Deep Transfer Learning Using Time-Frequency Representation"
+abstract: >-
+  A deep transfer convolutional neural network (DTCNN) for rolling-bearing
+  fault diagnosis under limited labeled data. Vibration signals are converted
+  to time-frequency RGB images via continuous wavelet transform, high-level
+  features are extracted with ImageNet-pretrained CNNs (DenseNet201,
+  ResNet152V2, MobileNetV2), and faults are classified by ML/DL classifiers.
+  Validated on the CWRU bearing benchmark.
+authors:
+  - family-names: Kavianpour
+    given-names: Mohammadreza
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Ghorvei
+    given-names: Mohammadreza
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Ramezani
+    given-names: Amin
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+  - family-names: Beheshti
+    given-names: "Mohammad T. H."
+    affiliation: "Tarbiat Modares University, Tehran, Iran"
+keywords:
+  - fault diagnosis
+  - transfer learning
+  - deep learning
+  - machine learning
+  - continuous wavelet transform
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "Intelligent Fault Diagnosis of Rolling Bearing Based on Deep Transfer Learning Using Time-Frequency Representation"
+  authors:
+    - family-names: Kavianpour
+      given-names: Mohammadreza
+    - family-names: Ghorvei
+      given-names: Mohammadreza
+    - family-names: Ramezani
+      given-names: Amin
+    - family-names: Beheshti
+      given-names: "Mohammad T. H."
+  collection-title: "2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)"
+  conference:
+    name: "7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)"
+  year: 2021
+  publisher:
+    name: IEEE
+  doi: "10.1109/ICSPIS54653.2021.9729385"
+  url: "https://doi.org/10.1109/ICSPIS54653.2021.9729385"
