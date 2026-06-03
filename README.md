@@ -1,4 +1,6 @@
-# Intelligent Rolling-Bearing Fault Diagnosis via Deep Transfer Learning on Time–Frequency Images
+# Intelligent Fault Diagnosis of Rolling Bearing Based on Deep Transfer Learning Using Time-Frequency Representation
+
+> Official implementation of the IEEE ICSPIS 2021 paper.
 
 > **DTCNN** — a deep transfer-learning framework that turns 1-D bearing vibration signals into time–frequency RGB images via continuous wavelet transform, extracts high-level features with ImageNet-pretrained CNNs (DenseNet201 / ResNet152V2 / MobileNetV2), and classifies faults with ML/DL classifiers — accurate even with limited labeled data.
 
